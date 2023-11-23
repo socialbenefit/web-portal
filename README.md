@@ -1,8 +1,9 @@
 # web-portal
-The platform will provide the following benefits to the government users
-simple platform for welfare scheme creation and updates.
-reduced workload for government officials.
-enriched data can support analytics and measure scheme effectiveness.
-help redesign schemes for better impact.
-track Errors of Inclusion and Errors of Exclusion.
-reduced cost of delivering schemes.
+
+The platform will provide the following benefits to government users
+A simple platform for welfare scheme creation and updates.
+Reduced workload for government officials.
+Enriched data can support analytics and measure scheme effectiveness.
+Help redesign schemes for better impact.
+Track Errors of Inclusion and Errors of Exclusion.
+Reduced cost of delivering schemes.
